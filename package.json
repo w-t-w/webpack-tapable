@@ -1,0 +1,28 @@
+{
+  "name": "webpack-tapable",
+  "version": "0.0.1",
+  "description": "webpack tapable",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-t-w/webpack-tapable.git"
+  },
+  "keywords": [
+    "webpack",
+    "tapable"
+  ],
+  "author": "wtw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w-t-w/webpack-tapable/issues"
+  },
+  "homepage": "https://github.com/w-t-w/webpack-tapable#readme"
+}
